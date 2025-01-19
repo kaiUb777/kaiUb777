@@ -20,7 +20,7 @@
 <div align="left">
 <h2> 🛠️ My Skills </h2>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Cybersecurity Tools
+<h3> 🏴‍☠ Cybersecurity Tools </h3>
 
 ![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
 ![Rapid7](https://img.shields.io/badge/-Rapid7-0055DA?style=flat&logo=rapid&logoColor=white)
@@ -32,7 +32,7 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+<h3> 💻 Programming languages </h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
@@ -53,13 +53,13 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Databases
+<h3> 🛢 Databases </h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+<h3> 🚀 IDEs </h3>
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-512BD4?style=flat&logo=visualbasic&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -68,7 +68,7 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+<h3> 🤖 Operating Systems </h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
