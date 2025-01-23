@@ -104,5 +104,8 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!"
+</div>
+
+<div align="center">
 "<script>alert("👹You've been pwned👹")</script>"  
 </div>
